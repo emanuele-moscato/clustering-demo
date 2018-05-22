@@ -1,0 +1,7 @@
+.credentials
+api/.ipynb_checkpoints
+api/__pycache__
+app/.ipynb_checkpoints
+app/__pycache__
+notebooks/.ipynb_checkpoints
+notebooks/hive.ipynb
